@@ -45,7 +45,7 @@ setIsMobile(e.matches)
     <Canvas
       frameloop="demand"
       shadows
-      camera={{ position: [20, 3, 5], fov: isMobile ? 60 : 25 }}
+      camera={{ position: [20, 3, 5], fov: isMobile ? 50 : 25 }}
       gl={{ preserveDrawingBuffer: true }}
     >
       <Suspense fallback={<Loader />}>
