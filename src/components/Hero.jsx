@@ -13,11 +13,11 @@ const Hero = () => {
             <div className="w-5 h-5 rounded-full bg-[#915eff]" />
             <div className="w-1 sm:h-80 h-40 violet-gradient" />
           </div>
-          <div className={`${styles.heroHeadText} text-white`}>
+          <div className={`${styles.heroHeadText} text-white`} style={{fontSize: "clamp(30px, 8vw, 60px)", lineHeight: "clamp(20px, 5vw, 60px)"}}>
             <h1>
               Hi, I'm <span className="text-[#915eff]">Azan</span>{" "}
             </h1>
-            <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+            <p className={`${styles.heroSubText} mt-2 text-white-100`} style={{fontSize: "clamp(16px, 2vw, 30px)", lineHeight: "clamp(20px, 2vw, 30px)"}}>
               {" "}
               I develop 3D visuals, user <br className="sm:block hidden" />{" "}
               interface and web applications
