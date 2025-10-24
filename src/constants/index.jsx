@@ -185,7 +185,7 @@ import {
     {
       name: "Finance App",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A web application that allows users to track their expenses, manage budgets, analyze spending patterns, and gain financial insights to make smarter money decisions.",
       tags: [
         {
           name: "react",
