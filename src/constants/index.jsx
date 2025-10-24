@@ -21,6 +21,7 @@ import {
     shopify,
     carrent,
     jobit,
+    financekit,
     tripguide,
     threejs,
   } from "../assets";
@@ -200,7 +201,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: financekit,
       source_code_link: "https://financial-platfoam.netlify.app/",
     },
     {
