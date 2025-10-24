@@ -183,7 +183,7 @@ import {
       source_code_link: "https://github.com/AzaanTechzilla",
     },
     {
-      name: "Job IT",
+      name: "Finance App",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
@@ -196,12 +196,12 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "sass",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/AzaanTechzilla",
+      source_code_link: "https://financial-platfoam.netlify.app/",
     },
     {
       name: "Trip Guide",
@@ -222,7 +222,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/AzaanTechzilla",
+      source_code_link: "https://zufta-travels.vercel.app/",
     },
   ];
   
